@@ -1,2 +1,2 @@
 # IOT
--Front e backend para projeto de irrigação
+backend para projeto de irrigação
